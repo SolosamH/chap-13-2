@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+h1 {
+    color: teal;
+}
+
+h2 {
+    color: maroon;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 0.5em;
+    text-align: left;
+}
+
+th {
+    background-color: lightgray;
+}
+
+label {
+    display: inline-block;
+    width: 10em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+input[type="text"], input[type="email"] {
+    width: 15em;
+    margin-bottom: 0.5em;
+}
+
+input[type="submit"] {
+    margin-right: 0.5em;
+}
+
+br {
+    clear: both;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
