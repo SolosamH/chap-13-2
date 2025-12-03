@@ -26,3 +26,6 @@ Thumbs.db
 
 # SQL scripts (optional)
 fix_duplicate_emails.sql
+
+# Git
+.git/
